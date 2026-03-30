@@ -1,16 +1,18 @@
-<img src="https://openhwfoundation.org/images/openhw-landscape.png" width="418px" height="103px" /> <img src="https://www.openhwgroup.org/images/core-v-portrait.png" align="right" width="150px" height="120px"/>
+<img src="https://openhwfoundation.org/images/openhw-landscape.png" width="418px" height="103px" />
 
-# About OpenHW Group
+# About OpenHW Foundation
 
-OpenHW Group is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.
-Please see our [website](https://www.openhwgroup.org/) for membership information, latest news, and further resources.
+OpenHW Foundation (formally the OpenHW Group) is a not-for-profit, global organization driven by its members and individual contributors where hardware and software designers collaborate in the development of open-source cores, related IP, tools and software. OpenHW provides an infrastructure for hosting high quality open-source HW developments in line with industry best practices.
+Please see our [website](https://www.openhwfoundation.org/) for membership information, latest news, and further resources.
 
-# OpenHW Group CORE-V Family of Open-Source RISC-V Cores
+<!--
+# OpenHW Foundation CORE-V Family of Open-Source RISC-V Cores
 
 Below is the CORE-V Roadmap of Application class and Embedded class cores. Please see [core-v-cores repo](https://github.com/openhwgroup/core-v-cores) for roadmap details.
+-->
 <!-- <img src="https://github.com/openhwgroup/core-v-cores/blob/master/CV-CORES-Roadmap_2023-03-14.png" align="center" /> -->
 
-<img src="https://github.com/openhwgroup/core-v-cores/blob/master/OpenHW-CoresTimeline-Feb2024.png" align="center" />
+<!-- <img src="https://github.com/openhwgroup/core-v-cores/blob/master/OpenHW-CoresTimeline-Feb2024.png" align="center" /> -->
 
 # Project Repositories Table of Contents 
 
