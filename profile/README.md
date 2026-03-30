@@ -1,4 +1,4 @@
-<img src="https://www.openhwgroup.org/images/openhw-landscape.png" width="418px" height="103px" /> <img src="https://www.openhwgroup.org/images/core-v-portrait.png" align="right" width="150px" height="120px"/>
+<img src="https://openhwfoundation.org/images/openhw-landscape.png" width="418px" height="103px" /> <img src="https://www.openhwgroup.org/images/core-v-portrait.png" align="right" width="150px" height="120px"/>
 
 # About OpenHW Group
 
