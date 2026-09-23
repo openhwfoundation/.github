@@ -1,4 +1,4 @@
-<img src="https://openhwfoundation.org/images/openhw-landscape.png" width="418px" height="103px" />
+<img src="openhw-landscape.png" width="418px" height="103px" />
 
 # About OpenHW Foundation
 
